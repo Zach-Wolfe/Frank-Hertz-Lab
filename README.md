@@ -1,1 +1,1 @@
-# Frank-Hertz-Lab
+The Franck-Hertz experiment done in the lab studies a claim of quantum theory that electrons have discrete (quantized) energy levels or states. It does this by launching electrons in mercury in order to 'excite' the electrons in the mercury so that they may elevate in energy state. The experiment shows that the energy "jumps" happen in quantized inervals of 4.9 eV confirming that electrons have discrete energy levels.
